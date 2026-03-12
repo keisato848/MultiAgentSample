@@ -16,6 +16,7 @@ GitHub Copilot のカスタムエージェントモード（`.agent.md`）とサ
 | **BasicDesignReader** | 基本設計書の要件抽出 | `login_bd.md` | 構造化された要件レポート |
 | **RuleChecker** | UI/UX規約の抽出 | `ui_rules.md` | 構造化された規約レポート |
 | **Implementer** | 指摘事項に基づく修正版の作成 | 指摘リスト + `login_dd.md` | 修正版ファイル `login_dd_v2.md` |
+| **テクニカルライター** | AIとの対話履歴やプロンプト構成を技術記事に変換 | 対話履歴・プロンプト構成 | 技術ブログ/社内Wiki向けマークダウン記事 |
 
 ---
 
